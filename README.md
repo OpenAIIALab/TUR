@@ -4,9 +4,14 @@
 
 # Debiased All-in-one Image Restoration with Task Uncertainty Regularization
 
-Anonymous submission
+[Gang Wu (吴刚)](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Junjun Jiang (江俊君)](http://homepage.hit.edu.cn/jiangjunjun), [Yijun Wang (王奕钧)](), [Kui Jiang (江奎)](https://github.com/kuijiang94), and [Xianming Liu (刘贤明)](http://homepage.hit.edu.cn/xmliu)
 
----
+[AIIA Lab](https://aiialabhit.github.io/team/), Faculty of Computing, Harbin Institute of Technology, Harbin 150001, China.
+
+[![Paper](http://img.shields.io/badge/Paper-OpenReview-FF6B6B.svg)](https://openreview.net/forum?id=kx7eyKgEGz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions))
+[![arXiv](https://img.shields.io/badge/AAAI-2025-red.svg)]()
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAitical%2FTUR%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 
 [pretrained models](https://pan.baidu.com/s/1YN3P-CmnisXVIdLHTWB9Fw?pwd=AAAI)
 </div>
@@ -106,7 +111,7 @@ Table: Comparison on de-weathering tasks on real-world datasets following [2]
 | Average | Chen et al. [1] | 28.93 | 0.90 |
 | | WGWSNet [2] | 29.61 | 0.90 |
 | | TransWeather [3] | 26.71 | 0.86 |
-| | **TransWeather (Ours)** | **39.96** | **0.92** |
+| | **TransWeather (Ours)** | **29.96** | **0.92** |
 
 
 ## Acknowledgement
