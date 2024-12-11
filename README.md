@@ -10,10 +10,10 @@
 
 [![Paper](http://img.shields.io/badge/Paper-OpenReview-FF6B6B.svg)](https://openreview.net/forum?id=kx7eyKgEGz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions))
 [![arXiv](https://img.shields.io/badge/AAAI-2025-red.svg)]()
+[![Models](https://img.shields.io/badge/BaiduPan-Models-blue.svg)](https://pan.baidu.com/s/1YN3P-CmnisXVIdLHTWB9Fw?pwd=AAAI)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAitical%2FTUR%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-[pretrained models](https://pan.baidu.com/s/1YN3P-CmnisXVIdLHTWB9Fw?pwd=AAAI)
 </div>
 
 >All-in-one image restoration is a fundamental low-level vision task with significant real-world applications. The primary challenge lies in  addressing diverse degradations within a single model. 
