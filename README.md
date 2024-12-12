@@ -115,13 +115,14 @@ Table: Comparison on de-weathering tasks on real-world datasets following [2]
 
 ## Citation
 If our project helps your research or work, please cite our paper or star this repo. Thank you!
-
+```
 @inproceedings{wu2025debiased,
   title={Debiased All-in-one Image Restoration with Task Uncertainty Regularization},
   author={Gang Wu, Junjun Jiang, Yijun Wang, Kui Jiang, and Xianming Liu},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2025}
 }
+```
 
 ## Acknowledgement
 
